@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Install-Kuliah/AndroidStudioProjects/MyNavigationDrawer/app/src/main/res/drawable/side_nav_bar.xml" value="0.1685185185185185" />
+        <entry key="..\:/Install-Kuliah/AndroidStudioProjects/MyNavigationDrawer/app/src/main/res/layout/activity_subway.xml" value="0.1" />
         <entry key="..\:/Install-Kuliah/AndroidStudioProjects/MyNavigationDrawer/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
         <entry key="..\:/Install-Kuliah/AndroidStudioProjects/MyNavigationDrawer/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Install-Kuliah/AndroidStudioProjects/MyNavigationDrawer/app/src/main/res/layout/fragment_cart.xml" value="0.1" />
         <entry key="..\:/Install-Kuliah/AndroidStudioProjects/MyNavigationDrawer/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
         <entry key="..\:/Install-Kuliah/AndroidStudioProjects/MyNavigationDrawer/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
         <entry key="..\:/Install-Kuliah/AndroidStudioProjects/MyNavigationDrawer/app/src/main/res/menu/main.xml" value="0.1" />
