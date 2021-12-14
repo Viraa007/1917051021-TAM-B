@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Quote</string>
+    <string name="quote">I believe that fantasy in the meaning of imagination is very important.
+        We shouldn’t stick too close to everyday reality but give room to the reality of the heart, of the mind, and of the imagination.</string>
+    <string name="author">- Hayao Miyazaki</string>
+    <string name="show_list_quotes">Show me list of quotes</string>
+</resources>
